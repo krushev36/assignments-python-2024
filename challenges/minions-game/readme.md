@@ -18,7 +18,8 @@ Kevin's vowel beginning word = ANA
 Here, ANA occurs twice in BANANA. Hence, Kevin will get `2` Points.
 
 For better understanding, see the image below:
-![](example.png)
+
+![Diagram](example.png)
 
 Your task is to determine the winner of the game and their score.
 
@@ -35,7 +36,7 @@ minion_game has the following parameters:
 ## Input Format
 
 A single line of input containing the string $S$.
-Note: The string  will contain only uppercase letters: $\[ A - Z \]$.
+Note: The string  will contain only uppercase letters: $\left[ A - Z \right]$.
 
 Constraints
 $$ 0 < len(S) \le 10^6$$
