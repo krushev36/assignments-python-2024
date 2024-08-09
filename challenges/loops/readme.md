@@ -5,7 +5,7 @@ The provided code stub reads and integer, $n$, from STDIN. For all non-negative 
 
 ## Example
 $$ n=3 $$
-The list of non-negative integers that are less than $n=3$ is $\left[ 0, 1, 2\right}$. Print the square of each number on a separate line.
+The list of non-negative integers that are less than $n=3$ is $\left[ 0, 1, 2\right]$. Print the square of each number on a separate line.
 
 ```
 0
