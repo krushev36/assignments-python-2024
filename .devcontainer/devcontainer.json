@@ -7,7 +7,7 @@
     // Configure properties specific to VS Code.
     "vscode": {
       // Add the IDs of extensions you want installed when the container is created.
-      "extensions": ["ms-azuretools.vscode-docker", "ms-python.python", "ms-python.debugpy", "ms-toolsai.jupyter", "charliermarsh.ruff", "ms-toolsai.jupyter-renderers"]
+      "extensions": ["ms-azuretools.vscode-docker", "ms-python.python", "ms-python.debugpy", "ms-toolsai.jupyter", "charliermarsh.ruff", "ms-toolsai.jupyter-renderers", "mechatroner.rainbow-csv"]
     }
   }
 }
